@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a passionate **Machine Learning and Data Science enthusiast** who believes in mastering concepts from the ground up. My goal is to build intelligent systems, solve real-world problems using data, and continuously improve through practical learning and structured projects.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

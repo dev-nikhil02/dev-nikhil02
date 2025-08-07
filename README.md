@@ -1,11 +1,40 @@
-## Hi there 👋
-I'm a passionate **Machine Learning and Data Science enthusiast** who believes in mastering concepts from the ground up. My goal is to build intelligent systems, solve real-world problems using data, and continuously improve through practical learning and structured projects.
+# 👋 Hey, I'm Nikhil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 Aspiring **Machine Learning Engineer**  
+🔍 Driven by curiosity. Grounded in logic. Obsessed with solving real-world problems using data.  
+🎬 Cinematography enthusiast | 📸 Visual storyteller in progress
+
+---
+
+## 👉 Tech Stack & Skills
+
+- **Languages:** Python, SQL, C++
+- **ML Libraries:** Scikit-learn, TensorFlow, Keras, XGBoost
+- **Data Tools:** NumPy, Pandas, Matplotlib, Power BI
+- **Dev & Ops:** Git, GitHub, Streamlit
+- **Concepts:** EDA, Regression, Classification, Feature Engineering, Hyperparameter Tuning, Model Evaluation
+ 
+
+---
+
+## 👉 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-nikhil02&show_icons=true&theme=radical&count_private=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nikhil02&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 👉 Connect with Me
+
+-  [LinkedIn](https://www.linkedin.com/in/nikhil-agarwal-b7780b222/)
+-  [GitHub](https://github.com/dev-nikhil02)
+
+---
+
+“Build models. Tell stories. Make impact.” 
+Let’s connect and build together 🚀

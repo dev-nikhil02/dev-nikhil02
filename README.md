@@ -2,7 +2,7 @@
 
 🎯 Aspiring **Machine Learning Engineer**  
 🔍 Focused on mastering ML concepts and applying them through hands-on projects.  
-📊Turning raw data into working systems.  
+📊 Turning raw data into working systems.  
 🎬 Cinematography enthusiast | 📸 Visual storyteller in progress
 
 ---

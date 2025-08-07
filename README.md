@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Nikhil!
 
 🎯 Aspiring **Machine Learning Engineer**  
-🔍 Driven by curiosity. Grounded in logic. Obsessed with solving real-world problems using data.  
+🔍 Focused on mastering ML concepts and applying them through hands-on projects.
 🎬 Cinematography enthusiast | 📸 Visual storyteller in progress
 
 ---
